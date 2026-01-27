@@ -3,7 +3,7 @@
 Discover, learn, and build AI agent skills for modern development.
 
 👉 Visit: https://agskills.dev  
-🇨🇳 中文版: [README.zh-CN.md](./README.zh-CN.md)
+🇨🇳 中文版: [切换到中文](./README.zh-CN.md)
 
 ---
 
