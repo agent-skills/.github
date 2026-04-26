@@ -1,7 +1,7 @@
 # Agent Skills
 面向 AI Agents 与 AI IDE 的结构化技能库与知识体系。
 
-👉 前往查看：https://agskills.dev  
+👉 前往查看：[https://agskills.dev](https://agskills.dev/?utm_source=github)  
 🌍 English: [Switch to English](./README.md)
 
 ---
